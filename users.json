@@ -1,0 +1,12 @@
+[
+  {
+    "username": "admin",
+    "key": "ADMIN-ROOT",
+    "role": "admin"
+  },
+  {
+    "username": "user1",
+    "key": "USER-123",
+    "role": "user"
+  }
+]
